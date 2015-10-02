@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\aelab01\AndroidStudioProjects\Sunshine-Version-2-1.05_create_arrayadapter\Sunshine4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jar="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\aelab01\AndroidStudioProjects\Sunshine-Version-2-1.05_create_arrayadapter\Sunshine4\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-3714bbe16c63eb7e093d68e94ae713cfc2000350.jar" />
-    </item>
-    <item
-        jar="C:\Users\aelab01\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\aelab01\AndroidStudioProjects\Sunshine-Version-2-1.05_create_arrayadapter\Sunshine4\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-abcfafb70ef7e6756e17b42a2f4399bc5b38e08e.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\pre-dexed\debug\classes-b5568d10e3a0ecc4ff3368b013a36c39a7869a39.jar" />
     </item>
     <item
         jar="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
@@ -23,20 +16,6 @@
         <dex dex="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-57e37763993033787123acf606840ec45a0482a1.jar" />
     </item>
     <item
-        jar="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\pre-dexed\debug\classes-b5568d10e3a0ecc4ff3368b013a36c39a7869a39.jar" />
-    </item>
-    <item
-        jar="C:\Users\aelab01\AndroidStudioProjects\Sunshine-Version-2-1.05_create_arrayadapter\Sunshine4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\aelab01\AndroidStudioProjects\Sunshine-Version-2-1.05_create_arrayadapter\Sunshine4\app\build\intermediates\pre-dexed\debug\classes-8344e7bdc73dadcd8887628a0bf75d5a70e3f3f8.jar" />
-    </item>
-    <item
         jar="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -44,11 +23,11 @@
         <dex dex="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\pre-dexed\debug\classes-36f3f34cc13f108f0c77cc523885ea9f2f8067b5.jar" />
     </item>
     <item
-        jar="C:\Users\aelab01\AndroidStudioProjects\Sunshine-Version-2-1.05_create_arrayadapter\Sunshine4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jar="C:\Users\aelab01\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\aelab01\AndroidStudioProjects\Sunshine-Version-2-1.05_create_arrayadapter\Sunshine4\app\build\intermediates\pre-dexed\debug\classes-40e007683d58932c94da81ba4508a9f207e11869.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\GitHub\SunshineApp\Sunshine4\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-abcfafb70ef7e6756e17b42a2f4399bc5b38e08e.jar" />
     </item>
 
 </items>
